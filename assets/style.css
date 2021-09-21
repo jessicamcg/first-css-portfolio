@@ -24,6 +24,10 @@ header {
     transform: translateY(-50%);
 }
 
+header img {
+    border-radius: 50%;
+}
+
 header h1 {
     display: inline-block;
     font-size: 1.5rem;
@@ -107,13 +111,18 @@ main {
 
 
 @media screen and (max-width: 992px) {
+    body {
+        flex-wrap: wrap;
+    }
+
     header {
         float: top;
         position: inherit;
         width: auto;
         display: flex;
         align-items: center;
-        transform: 0;
-        top: 0;
+        transform: translateY(0%);
+        justify-content: space-around;
+        width: 100%;
     }
 }
