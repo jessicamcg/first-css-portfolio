@@ -16,7 +16,7 @@ Responsive design adapts to various browser screen sizes
 
 
 ##
-![screenshot of live link](https://github.com/jessicamcg/first-css-portfolio/blob/main/assets/images/screenshot%20of%20live%20link.png)
+![screenshot of live link](./assets/images/screenshotlivelink.png)
 
 ## Live link:
 https://jessicamcg.github.io/first-css-portfolio/
